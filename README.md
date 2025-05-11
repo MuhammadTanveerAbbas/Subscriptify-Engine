@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://i.postimg.cc/cJST9rXn/Subscriptify-Engine.png" width="600">
+  <img src="https://i.postimg.cc/cJST9rXn/Subscriptify-Engine.png" alt="Subscriptify Engine Logo" width="450" />
   <h1>🚀 Subscriptify Engine</h1>
- <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" height="40" />
+    <span style="display:inline-block; width:12px;"></span>
+    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express" height="40" />
+    <span style="display:inline-block; width:12px;"></span>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" height="40" />
+  </p>
 </div>
 
-###
-</div>
 
 ## 📦 Features
 
