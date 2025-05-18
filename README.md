@@ -50,7 +50,7 @@ git clone https://github.com/MuhammadTanveerAbbas/Subscriptify-Engine.git
 cd Subscriptify-Engine
 
 # Install dependencies
-npm ci
+npm install
 
 # Configure environment
 cp .env.example .env.local
