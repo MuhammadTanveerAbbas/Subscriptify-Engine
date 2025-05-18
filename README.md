@@ -130,6 +130,3 @@ Automated reminders powered by:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-[![Documentation](https://img.shields.io/badge/Postman-Docs-orange?style=flat-square)](https://documenter.getpostman.com/view/12345678/2sA3BhDf)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
