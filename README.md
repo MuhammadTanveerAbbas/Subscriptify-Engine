@@ -23,7 +23,7 @@
 
 ## 🛠 Tech Stack
 
-**Core**
+**Version Prerequisites**
 - Node.js 18.x
 - Express 4.x
 - MongoDB 6.x
